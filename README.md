@@ -1,6 +1,12 @@
 # SigaAPP---Engenharia-de-Software
 Trabalho de Engenharia de  Sofware: A modelagem de um aplicativo mobile para acesso dos(as) alunos(as) às funcionalidades do SIGA
 
+Grupo:
+Felipe Bonilha
+João Briega
+Murilo Ferrari
+Thiago Duarte
+
 Etapa 1 – Requisitos – Diagrama de Casos de Uso  
   Identificar os atores  
   Identificar os requisitos funcionais  
